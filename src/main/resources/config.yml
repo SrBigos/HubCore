@@ -1,0 +1,40 @@
+CustomJoinMessage:
+  enable: true
+  default:
+    message: "§8No hay nada puesto"
+    permission: "none"
+  custom1:
+    message: "El jugador VIP ha entrado"
+    permission: "hubcore.join.vip"
+  custom2:
+    message:
+    permission:
+  custom3:
+    message:
+    permission:
+  custom4:
+    message:
+    permission:
+  custom5:
+    message:
+    permission:
+CustomQuitMessage:
+  enable:
+  user:
+    message:
+    permission:
+  custom1:
+    message:
+    permission:
+  custom2:
+    message:
+    permission:
+  custom3:
+    message:
+    permission:
+  custom4:
+    message:
+    permission:
+  custom5:
+    message:
+    permission:
