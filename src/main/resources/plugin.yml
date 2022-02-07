@@ -1,0 +1,7 @@
+name: BIG-HubCore
+version: '${project.version}'
+main: srbigos.main.Main
+api-version: 1.18
+authors: [ SrBigos ]
+description: This plugin provides you optimize and performance from your Lobbies Servers in Minecraft
+website: https://redes.srbigos.es
